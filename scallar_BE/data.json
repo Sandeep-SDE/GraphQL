@@ -1,0 +1,40 @@
+{
+    "weather" :[
+     {
+        "temperature": 25.5,
+        "humidity": 60,
+        "description": "Sunny"
+      },
+      {
+        "temperature": 20.2,
+        "humidity": 75,
+        "description": "Cloudy"
+      },
+      {
+        "temperature": 18.8,
+        "humidity": 82,
+        "description": "Rainy"
+      }
+    ],
+
+    "demoImdbData" : [
+      {
+        "title": "The Shawshank Redemption",
+        "releaseYear": 1994,
+        "rating": 9.3,
+        "director": "Frank Darabont"
+      },
+      {
+        "title": "The Godfather",
+        "releaseYear": 1972,
+        "rating": 9.2,
+        "director": "Francis Ford Coppola"
+      },
+      {
+        "title": "Pulp Fiction",
+        "releaseYear": 1994,
+        "rating": 8.9,
+        "director": "Quentin Tarantino"
+      }
+    ]
+}
